@@ -65,7 +65,7 @@ main{
 section{
     background-color: var(--c-dark-magenta);
     border-radius: 7px;
-    padding: 2rem;
+    padding: 1rem;
     color: var(--c-white);
     max-width: 400px;
 }
